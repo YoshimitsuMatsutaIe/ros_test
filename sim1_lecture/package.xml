@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sim1_lecture</name>
+  <version>0.0.0</version>
+  <description>テスト</description>
+  <maintainer email="sbb03104@st.osakafu-u.ac.jp">hoge</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+
+
+</package>
